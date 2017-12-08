@@ -1,0 +1,2 @@
+manada: 1
+leones: 0
